@@ -1,4 +1,4 @@
-# debian-aarch64-for-rpi4b
+# debian-aarch64-for-raspberry pi 4b
 
  - Debian buster aarch64 for Raspberry pi 4B.  
   -- No xorg and desktop, only installed base tools.
