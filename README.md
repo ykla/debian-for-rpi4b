@@ -10,3 +10,5 @@
  - Default open SSH server, If you cannot connect ssh that you should login first by monitor.
  - User Name: root  
 Password: z
+
+#QQ 群 817507910
