@@ -7,8 +7,8 @@
  - 适用于树莓派4的64位的 debian buster系统。  
   -- 无桌面，仅仅安装了基本网络工具。
   
- - Default open SSH server, If you cannot connect ssh that you should login first by monitor.
+ - Default open SSH server, If you cannot connect ssh that you should login first by monitor(fixed in rc0.2).
  - User Name: root  
 Password: z
 
-# QQ 群 817507910
+# QQ 群 817507910 
