@@ -34,6 +34,6 @@ EOF
 	resize2fs ${DEVICE}p${PART}
 }
 
-systemctl disable resize_rootfs
 resize
 
+systemctl disable resize_rootfs
